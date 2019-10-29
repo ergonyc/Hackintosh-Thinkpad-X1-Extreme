@@ -1,7 +1,23 @@
 # Hackintosh for Thinkpad X1 Extreme-Update History
 
 ## 2019
+### October Updates
+* [20191010] ~~Looks like the final version of Catalina has some problems...? I will stay on PB10 for a while :P~~
+* [20191008] Welcome to Catalina everyone! It's been quite a while for Catalina to get ready.
+* [20191003] Stable direct upgrade to PB10.
+* [20191001] Happy 70th birthday to China! Also to my dear dad :)
+### September Updates
+* [20190930] Released minor update v10.15.0.3.3, not mandatory.
+* [20190928] Direct upgrade to PB8 is fine. Nothing special needed.
+* [20190920] Bypassed the external 4K60 scaling limit. Instruction down below.
+* [20190913] Direct upgrade to PB7 is fine. Happy mid-autumn festival everyone! 
+* [20190910] Released v10.15.0.3.2 based on discussion in issue [#40](https://github.com/Errrneist/Hackintosh-Thinkpad-X1-Extreme/issues/40). Significantly improved touchpad performance.
+* [20190906] Updated BIOS to 1.24. System behaves stable.
+* [20190902] Updated Clover to v5058, released a minor update v10.15.0.3.1.
 ### August Updates
+* [20190829] Directly upgrade to PB6 is fine. ~~However, be careful as this might clear your desktop's files...~~
+* [20190820] Updated to 10.15.0 PB5. Still works.
+* [20190817] Happy birthday for the man who changed China! 
 * [20190808] Deprecated V2, released V3.0. VirtualSMC sucks...
 * [20190806] Released v10.15.0.2.0 beta, moving away from FakeSMC to VirtualSMC.
 * [20190805] Updated AppleALC.kext, improved stability, released v10.15.0.1.3.
